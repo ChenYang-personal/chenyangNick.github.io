@@ -1,6 +1,8 @@
-# Myself
+# Chen Yang
 
-Welcome to my personal website! I am a graduate student at Northeastern University pursuing a Master’s in Information Systems. With a solid foundation in computer science and data science, I am passionate about exploring machine learning, natural language processing, and data-driven solutions. My academic and professional journey is focused on creating innovative and impactful contributions to the field of technology.
+Welcome to my personal website! [GitHub Profile](https://github.com/your-github-username) | [My Blog](https://your-blog-link.com)
+
+I am a graduate student at Northeastern University pursuing a Master’s in Information Systems. With a solid foundation in computer science and data science, I am passionate about exploring machine learning, natural language processing, and data-driven solutions. My academic and professional journey is focused on creating innovative and impactful contributions to the field of technology.
 
 ---
 
@@ -25,5 +27,6 @@ This project focused on analyzing the impact of expert sentiments on Boeing's st
 ---
 
 Feel free to explore my work and reach out for collaboration or discussions!
+
 
 
