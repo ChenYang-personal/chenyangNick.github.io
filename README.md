@@ -1,1 +1,7 @@
-# chenyangNick.github.io
+# Data scientist
+
+### Education
+CS, PhD
+
+### Work Experience
+
