@@ -1,5 +1,12 @@
 title: Chen Yang (Nick) personal site
 logo: /assets/img/head_shot.png
-description: A PhD student
-show_downloads: true
+description: A Master student pursuing PhD
+show_downloads: false
 theme: jekyll-theme-minimal
+
+links:
+  - title: GitHub
+    url: https://github.com/ChenYang-personal
+  - title: Blog
+    url: https://your-blog-link.com
+
