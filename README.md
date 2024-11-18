@@ -1,6 +1,6 @@
 # Chen Yang
 
-Welcome to my personal website! [GitHub Profile](https://github.com/ChenYang-personal) | [My Blog](https://your-blog-link.com)
+Welcome to my personal website! [GitHub Profile](https://github.com/ChenYang-personal) | [My Blog](https://nickstylesync.blogspot.com/)
 
 I am a graduate student at Northeastern University pursuing a Master’s in Information Systems. With a solid foundation in computer science and data science, I am passionate about exploring machine learning, natural language processing, and data-driven solutions. My academic and professional journey is focused on creating innovative and impactful contributions to the field of technology.
 
